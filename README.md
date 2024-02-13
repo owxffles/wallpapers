@@ -1,5 +1,5 @@
 # wallpapers
-Wallpapers for personal use! Check out README.md for more information.
+Wallpapers that I like
 
 This repo contains a collection of wallpapers that I have found and enjoy. I do not own any of these wallpapers, and all credit goes to the respective creators.
 
